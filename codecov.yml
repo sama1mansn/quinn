@@ -2,4 +2,4 @@ coverage:
   status:
     patch: off
     project: off
-  range: "50..100"
+  range: "55..90"
